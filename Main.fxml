@@ -7,7 +7,7 @@ import javafx.scene.Scene;
 import javafx.scene.layout.BorderPane;
 import javafx.scene.paint.Color;
 
-// Don't forget to change the fxml files directory!
+// Don't forget to change the fxml files root!
 
 public class Main extends Application {
 	@Override
