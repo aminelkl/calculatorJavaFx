@@ -16,7 +16,7 @@ public class Main extends Application {
 			Parent root = FXMLLoader.load(getClass().getResource("/application/Main.fxml"));
 			Scene scene = new Scene(root);
 			/*
-			Add those line of code to make the apps frame transparent 
+			Add those line of code to make the apps frame transparent, *You can't close the app this way
 			primaryStage.initStyle(StageStyle.TRANSPARENT);
 			scene.setFill(Color.TRANSPARENT);
 */
