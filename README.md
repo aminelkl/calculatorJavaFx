@@ -9,7 +9,7 @@ A simple calculator for desktop (cross-platform) 🧮
 
 
 **technology used :**
-- JavaFx, Eclipse
+- JavaFx, Scene builder (.FXML)
 
 ## Authors
 - [@AmineLakhal](https://github.com/aminelkl)
